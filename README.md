@@ -164,7 +164,7 @@ All data science work is documented in the notebooks listed below.
 
 - **02 – Process Discovery** 
 
-![Open Notebook](https://github.com/ken1711/Predictive_Process_Mining_BPI2019/blob/main/notebook/02_process_discovery.ipynb)
+![Open Notebook](https://github.com/ken1711/Predictive_Process_Mining_BPI2019/blob/main/notebooks/02_process_discovery.ipynb)
 
 - **03 – Feature Engineering**  
 
